@@ -1,0 +1,8 @@
+{
+  "name": "dbwrite",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::144268760788:role/dbwrite_lambda_function",
+  "environment": {}
+}
